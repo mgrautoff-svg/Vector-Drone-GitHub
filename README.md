@@ -1,3 +1,5 @@
+![Drones en Colombia — Análisis Estratégico](docs/drones.jpg)
+
 # Arquitectura de la Guerra Irregular en Colombia
 **Plataforma de Analítica Estratégica para Capacidades Militares Irregulares y Transformación del Conflicto en Colombia**
 
