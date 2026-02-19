@@ -1,4 +1,4 @@
-# Vector-Drone-GitHub  
+# Arquitectura de la Guerra Irregular en Colombia
 **Plataforma de Analítica Estratégica para Capacidades Militares Irregulares y Transformación del Conflicto en Colombia**
 
 ---
@@ -124,3 +124,47 @@ Este repositorio funciona como:
 Cada nuevo producto público tendrá aquí su respaldo empírico y metodológico correspondiente.
 
 ---
+
+## Fuentes, trazabilidad y método (How this is sourced)
+
+Este proyecto se construye sobre un principio central: **todo resultado debe ser trazable a datos verificables y a decisiones metodológicas explícitas**.
+
+### Fuentes de datos
+
+La infraestructura integra:
+
+- Bases consolidadas y verificadas por la **Fundación Ideas para la Paz (FIP)**  
+- Información pública de entidades del Estado colombiano, incluyendo el **Comando General de las Fuerzas Militares**  
+- Registros administrativos y series de indicadores de seguridad, conflicto e impacto humanitario  
+
+Estas fuentes se organizan en tres capas:
+
+- `data/raw/` → Insumos originales  
+- `data/verified/` → Datos depurados y validados (capa FIP / fuentes oficiales)  
+- `data/derived/` → Paneles, variables e indicadores construidos por el pipeline  
+
+### Trazabilidad analítica
+
+Cada producto analítico (tablas, figuras, escenarios, índices):
+
+- Está generado por un **script específico** en `scripts/`  
+- Usa **una versión identificable de los datos** en `data/`  
+- Responde a **supuestos metodológicos explícitos** documentados en el código  
+- Puede ser **reproducido de extremo a extremo** ejecutando el pipeline completo  
+
+Esto permite:
+
+- Auditoría técnica independiente  
+- Reproducción de resultados  
+- Actualización sistemática cuando hay nuevos cortes de datos  
+- Discusión sustantiva sobre supuestos, no solo sobre conclusiones  
+
+### Qué hace diferente a esta arquitectura
+
+A diferencia de enfoques centrados en eventos o conteos aislados, este pipeline:
+
+- Construye **paneles comparables en el tiempo**  
+- Modela **capacidades y adaptación organizacional**, no solo incidentes  
+- Produce **escenarios prospectivos** y métricas de riesgo estratégico  
+- Vincula datos, modelos y narrativa estratégica en una sola arquitectura reproducible  
+
