@@ -1,0 +1,8 @@
+metric,value
+load_timestamp,2026-02-03 13:29:31.704797
+rows,32
+cols,10
+n_categories,5
+n_indicators,28
+checksum_total_2025,27121
+verified_files,base_datos_fip_2025_CORREGIDA.csv; fip_verified_gao_counts_2024_2025.csv

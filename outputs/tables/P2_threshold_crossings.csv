@@ -1,0 +1,6 @@
+scenario_id,scenario_name,crosses_crisis,crosses_high_risk,crosses_medium_risk,total_growth_pct,avg_annual_growth,final_capacity
+1,Continuidad,2027,2026,2026,187.29766601526495,23.5,77918
+2,Contención Parcial,2030,2027,2026,61.05232107960621,10,43679
+3,Estabilización,NA,NA,2026,0,0,27121
+4,Reversión,NA,NA,2026,-22.620847313889602,-5,20986
+5,Saturación,NA,2027,2026,22.849452453818063,NA,33318

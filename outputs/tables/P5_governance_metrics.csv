@@ -1,0 +1,9 @@
+metric,value
+n_indicators,28
+n_positive_grow,3
+sum_pos,559
+sum_net,533
+gini_growth_pos,0.5567978533094813
+gini_stock_2025,0.8678732639102706
+hhi_growth_pos,5254.3674655419045
+hhi_stock_2025,4250.4244730445225

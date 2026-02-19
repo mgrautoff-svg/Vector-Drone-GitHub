@@ -1,0 +1,55 @@
+categoria,indicador,unidad,market,capacity,total_market,share,rank,bucket
+Conflicto,Ataques_Drones_EMC,eventos,stock_2024,0,652,0,5,Top 5
+Conflicto,Ataques_Drones_EMC,eventos,stock_2025,237,2029905,1.1675423234092235e-4,12,Others
+Conflicto,Ataques_Drones_EMC,eventos,growth_pos,0,559,0,4,Top 5
+Conflicto,Ataques_con_Drones,eventos,stock_2024,119,652,0.18251533742331288,3,Top 3
+Conflicto,Ataques_con_Drones,eventos,stock_2025,277,2029905,1.3645958801027634e-4,11,Others
+Conflicto,Ataques_con_Drones,eventos,growth_pos,158,559,0.2826475849731664,2,Top 3
+Conflicto,Enfrentamientos_entre_Grupos,eventos,stock_2024,86,652,0.13190184049079753,4,Top 5
+Conflicto,Enfrentamientos_entre_Grupos,eventos,stock_2025,115,2029905,5.6652897549392704e-5,14,Others
+Conflicto,Enfrentamientos_entre_Grupos,eventos,growth_pos,29,559,0.0518783542039356,3,Top 3
+Conflicto,Zonas_en_Disputa,zonas,stock_2024,0,652,0,5,Top 5
+Conflicto,Zonas_en_Disputa,zonas,stock_2025,13,2029905,6.404240592540045e-6,16,Others
+Conflicto,Zonas_en_Disputa,zonas,growth_pos,0,559,0,4,Top 5
+Estado,Incautaciones_Droga,kilogramos,stock_2024,0,652,0,5,Top 5
+Estado,Incautaciones_Droga,kilogramos,stock_2025,861166,2029905,0.42423955800887236,2,Top 3
+Estado,Incautaciones_Droga,kilogramos,growth_pos,0,559,0,4,Top 5
+Grupos_Armados,Clan_del_Golfo_Crecimiento,porcentaje,stock_2024,0,652,0,5,Top 5
+Grupos_Armados,Clan_del_Golfo_Crecimiento,porcentaje,stock_2025,30,2029905,1.4779016752015489e-5,15,Others
+Grupos_Armados,Clan_del_Golfo_Crecimiento,porcentaje,growth_pos,0,559,0,4,Top 5
+Grupos_Armados,Clan_del_Golfo_Nuevos,personas,stock_2024,0,652,0,5,Top 5
+Grupos_Armados,Clan_del_Golfo_Nuevos,personas,stock_2025,2300,2029905,0.001133057950987854,9,Top 10
+Grupos_Armados,Clan_del_Golfo_Nuevos,personas,growth_pos,0,559,0,4,Top 5
+Grupos_Armados,Hombres_en_Armas,personas,stock_2024,0,652,0,5,Top 5
+Grupos_Armados,Hombres_en_Armas,personas,stock_2025,13794,2029905,0.006795391902576721,5,Top 5
+Grupos_Armados,Hombres_en_Armas,personas,growth_pos,0,559,0,4,Top 5
+Grupos_Armados,Nuevos_Integrantes_Año,personas,stock_2024,0,652,0,5,Top 5
+Grupos_Armados,Nuevos_Integrantes_Año,personas,stock_2025,5000,2029905,0.0024631694586692483,8,Top 10
+Grupos_Armados,Nuevos_Integrantes_Año,personas,growth_pos,0,559,0,4,Top 5
+Grupos_Armados,Redes_de_Apoyo,personas,stock_2024,0,652,0,5,Top 5
+Grupos_Armados,Redes_de_Apoyo,personas,stock_2025,13327,2029905,0.006565331875137014,7,Top 10
+Grupos_Armados,Redes_de_Apoyo,personas,growth_pos,0,559,0,4,Top 5
+Grupos_Armados,Total_Integrantes,personas,stock_2024,0,652,0,5,Top 5
+Grupos_Armados,Total_Integrantes,personas,stock_2025,27121,2029905,0.013360723777713735,4,Top 5
+Grupos_Armados,Total_Integrantes,personas,growth_pos,0,559,0,4,Top 5
+Grupos_Armados,Variacion_Jul_Dic_2025,porcentaje,stock_2024,0,652,0,5,Top 5
+Grupos_Armados,Variacion_Jul_Dic_2025,porcentaje,stock_2025,7,2029905,3.448437242136947e-6,17,Others
+Grupos_Armados,Variacion_Jul_Dic_2025,porcentaje,growth_pos,0,559,0,4,Top 5
+Impacto_Humanitario,Afectados_Confinamiento,personas,stock_2024,0,652,0,5,Top 5
+Impacto_Humanitario,Afectados_Confinamiento,personas,stock_2025,1000000,2029905,0.49263389173384964,1,Leader
+Impacto_Humanitario,Afectados_Confinamiento,personas,growth_pos,0,559,0,4,Top 5
+Impacto_Humanitario,Afectados_Confinamiento_Multiplicador,veces,stock_2024,0,652,0,5,Top 5
+Impacto_Humanitario,Afectados_Confinamiento_Multiplicador,veces,stock_2025,3,2029905,1.4779016752015488e-6,18,Others
+Impacto_Humanitario,Afectados_Confinamiento_Multiplicador,veces,growth_pos,0,559,0,4,Top 5
+Impacto_Humanitario,Desplazados_Catatumbo,personas,stock_2024,0,652,0,5,Top 5
+Impacto_Humanitario,Desplazados_Catatumbo,personas,stock_2025,92000,2029905,0.04532231803951416,3,Top 3
+Impacto_Humanitario,Desplazados_Catatumbo,personas,growth_pos,0,559,0,4,Top 5
+Impacto_Humanitario,Homicidios_Lideres_Sociales,personas,stock_2024,168,652,0.25766871165644173,2,Top 3
+Impacto_Humanitario,Homicidios_Lideres_Sociales,personas,stock_2025,142,2029905,6.995401262620664e-5,13,Others
+Impacto_Humanitario,Homicidios_Lideres_Sociales,personas,growth_pos,0,559,0,4,Top 5
+Seguridad_Ciudadana,Homicidios_Totales,casos,stock_2024,0,652,0,5,Top 5
+Seguridad_Ciudadana,Homicidios_Totales,casos,stock_2025,13722,2029905,0.0067599222623718844,6,Top 10
+Seguridad_Ciudadana,Homicidios_Totales,casos,growth_pos,0,559,0,4,Top 5
+Seguridad_Ciudadana,Secuestro,casos,stock_2024,279,652,0.4279141104294479,1,Leader
+Seguridad_Ciudadana,Secuestro,casos,stock_2025,651,2029905,3.207046635187361e-4,10,Top 10
+Seguridad_Ciudadana,Secuestro,casos,growth_pos,372,559,0.6654740608228981,1,Leader

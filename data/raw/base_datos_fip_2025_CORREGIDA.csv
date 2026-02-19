@@ -1,0 +1,33 @@
+categoria,indicador,año,valor,unidad,variacion_porcentual,notas_documento
+Grupos_Armados,Total_Integrantes,2025,27121,personas,23.5,13794 hombres en armas y 13327 en redes de apoyo
+Grupos_Armados,Hombres_en_Armas,2025,13794,personas,20,
+Grupos_Armados,Redes_de_Apoyo,2025,13327,personas,27,
+Grupos_Armados,Nuevos_Integrantes_Año,2025,5000,personas,,Incremento en un año (incluye 620 de ACSN)
+Grupos_Armados,Variacion_Jul_Dic_2025,2025,7,porcentaje,,Aumento pie de fuerza entre julio y diciembre de 2025
+Grupos_Armados,Clan_del_Golfo_Crecimiento,2025,30,porcentaje,,Equivale a 2300 personas más
+Grupos_Armados,Clan_del_Golfo_Nuevos,2025,2300,personas,,
+Conflicto,Enfrentamientos_entre_Grupos,2025,115,eventos,34,Nivel más alto en 10 años
+Conflicto,Enfrentamientos_entre_Grupos,2024,86,eventos,,
+Conflicto,Zonas_en_Disputa,2025,13,zonas,,Doc dice: casi el doble que en 2022 (valor 2022 no especificado)
+Conflicto,Ataques_Infraestructura_Civil_Variacion,2025,,porcentaje,58,Aumento respecto a 2024
+Conflicto,Ataques_Fuerza_Publica_Variacion,2025,,porcentaje,62,Aumento respecto a 2024
+Conflicto,Ataques_con_Drones,2025,277,eventos,133,237 atribuidos al EMC (cálculo: 277-119=158, 158/119=132.77% redondeado a 133%)
+Conflicto,Ataques_con_Drones,2024,119,eventos,,
+Conflicto,Ataques_Drones_EMC,2025,237,eventos,,Mayoría de los 277 ataques
+Impacto_Humanitario,Desplazamiento_Forzado_Variacion,2025,,porcentaje,85,Aumento respecto a 2024
+Impacto_Humanitario,Desplazados_Catatumbo,2025,92000,personas,,Crisis del Catatumbo
+Impacto_Humanitario,Afectados_Confinamiento,2025,1000000,personas,,Más de un millón (doc dice triplicó 2024 pero no da cifra 2024)
+Impacto_Humanitario,Afectados_Confinamiento_Multiplicador,2025,3,veces,,Triplicó respecto a 2024
+Impacto_Humanitario,Ataques_Misiones_Medicas_Variacion,2025,,porcentaje,39,Aumento respecto a 2024
+Impacto_Humanitario,Homicidios_Lideres_Sociales,2025,142,personas,-15.5,
+Impacto_Humanitario,Homicidios_Lideres_Sociales,2024,168,personas,,
+Seguridad_Ciudadana,Homicidios_Totales,2025,13722,casos,3,Aumento cercano al 3% respecto a 2024
+Seguridad_Ciudadana,Hurto_Comercios_Variacion,2025,,porcentaje,-30,Disminución
+Seguridad_Ciudadana,Hurto_Automotores_Variacion,2025,,porcentaje,-17,Disminución
+Seguridad_Ciudadana,Hurto_Residencias_Variacion,2025,,porcentaje,-11.3,Disminución
+Seguridad_Ciudadana,Amenazas_Variacion,2025,,porcentaje,-18,Disminución
+Seguridad_Ciudadana,Extorsion_Variacion,2025,,porcentaje,-1,Disminución (doc advierte subregistro significativo)
+Seguridad_Ciudadana,Secuestro,2025,651,casos,133,Aumento
+Seguridad_Ciudadana,Secuestro,2024,279,casos,,
+Estado,Acciones_Fuerza_Publica_Variacion,2025,,porcentaje,34,Aumento de acciones
+Estado,Incautaciones_Droga,2025,861166,kilogramos,,Récord histórico

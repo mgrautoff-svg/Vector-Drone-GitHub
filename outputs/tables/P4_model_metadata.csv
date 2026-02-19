@@ -1,0 +1,2 @@
+model_name,timestamp,input_file,markets,n_indicators,model_version
+P4_Concentration_HHI_FIP_Native,2026-02-16 10:23:53.135687,C:/Users/MANFRED/Dropbox/PC (3)/Desktop/Diario/Columnas/columna _accam/data/derived/02_panel_fip_2024_2025.csv,stock_2024;stock_2025;growth_pos,18,1.0

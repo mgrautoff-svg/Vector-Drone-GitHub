@@ -1,0 +1,6 @@
+scenario_name,final_capacity,diff_vs_continuity,pct_vs_continuity
+Continuidad,77918,0,0
+Contención Parcial,43679,-34239,-43.942349649631666
+Estabilización,27121,-50797,-65.1928950948433
+Reversión,20986,-56932,-73.06655714982418
+Saturación,33318,-44600,-57.23966220898894

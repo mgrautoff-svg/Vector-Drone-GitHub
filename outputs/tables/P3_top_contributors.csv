@@ -1,0 +1,4 @@
+categoria,indicador,unidad,valor_2024,valor_2025,delta_abs,growth_rate,contrib_total_growth
+Seguridad_Ciudadana,Secuestro,casos,279,651,372,1.3333333333333333,0.6654740608228981
+Conflicto,Ataques_con_Drones,eventos,119,277,158,1.3277310924369747,0.2826475849731664
+Conflicto,Enfrentamientos_entre_Grupos,eventos,86,115,29,0.3372093023255814,0.0518783542039356

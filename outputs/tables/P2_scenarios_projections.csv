@@ -1,0 +1,26 @@
+scenario_id,scenario_name,year,capacity,growth_rate_effective,scenario_growth_rate,description,color
+1,Continuidad,2026,33494,0.235,0.235,Tendencia actual (+23.5% anual),#D32F2F
+1,Continuidad,2027,41366,0.235,0.235,Tendencia actual (+23.5% anual),#D32F2F
+1,Continuidad,2028,51087,0.235,0.235,Tendencia actual (+23.5% anual),#D32F2F
+1,Continuidad,2029,63092,0.235,0.235,Tendencia actual (+23.5% anual),#D32F2F
+1,Continuidad,2030,77918,0.235,0.235,Tendencia actual (+23.5% anual),#D32F2F
+2,Contención Parcial,2026,29833,0.1,0.1,Estrategia moderadamente exitosa (+10%),#FF9800
+2,Contención Parcial,2027,32816,0.1,0.1,Estrategia moderadamente exitosa (+10%),#FF9800
+2,Contención Parcial,2028,36098,0.1,0.1,Estrategia moderadamente exitosa (+10%),#FF9800
+2,Contención Parcial,2029,39708,0.1,0.1,Estrategia moderadamente exitosa (+10%),#FF9800
+2,Contención Parcial,2030,43679,0.1,0.1,Estrategia moderadamente exitosa (+10%),#FF9800
+3,Estabilización,2026,27121,0,0,Meta de política pública (0%),#4CAF50
+3,Estabilización,2027,27121,0,0,Meta de política pública (0%),#4CAF50
+3,Estabilización,2028,27121,0,0,Meta de política pública (0%),#4CAF50
+3,Estabilización,2029,27121,0,0,Meta de política pública (0%),#4CAF50
+3,Estabilización,2030,27121,0,0,Meta de política pública (0%),#4CAF50
+4,Reversión,2026,25765,-0.05,-0.05,Escenario optimista (-5%),#2196F3
+4,Reversión,2027,24477,-0.05,-0.05,Escenario optimista (-5%),#2196F3
+4,Reversión,2028,23253,-0.05,-0.05,Escenario optimista (-5%),#2196F3
+4,Reversión,2029,22090,-0.05,-0.05,Escenario optimista (-5%),#2196F3
+4,Reversión,2030,20986,-0.05,-0.05,Escenario optimista (-5%),#2196F3
+5,Saturación,2026,29052,NA,NA,Límite ecológico del conflicto,#9C27B0
+5,Saturación,2027,30587,NA,NA,Límite ecológico del conflicto,#9C27B0
+5,Saturación,2028,31770,NA,NA,Límite ecológico del conflicto,#9C27B0
+5,Saturación,2029,32660,NA,NA,Límite ecológico del conflicto,#9C27B0
+5,Saturación,2030,33318,NA,NA,Límite ecológico del conflicto,#9C27B0

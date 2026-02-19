@@ -1,0 +1,19 @@
+categoria,indicador,unidad,valor_2025,valor_2024,delta_abs,delta_pct,delta_pos,growth_rate,contrib_total_growth,contrib_total_stock,growth_category,contrib_category
+Seguridad_Ciudadana,Secuestro,casos,651,279,372,1.3333333333333333,372,1.3333333333333333,0.6654740608228981,3.207046635187361e-4,Alto Crecimiento (>25%),Motor Principal (>20%)
+Conflicto,Ataques_con_Drones,eventos,277,119,158,1.3277310924369747,158,1.3277310924369747,0.2826475849731664,1.3645958801027634e-4,Alto Crecimiento (>25%),Motor Principal (>20%)
+Conflicto,Enfrentamientos_entre_Grupos,eventos,115,86,29,0.3372093023255814,29,0.3372093023255814,0.0518783542039356,5.6652897549392704e-5,Alto Crecimiento (>25%),Contribuyente Medio (5-10%)
+Impacto_Humanitario,Homicidios_Lideres_Sociales,personas,142,168,-26,-0.15476190476190477,0,-0.15476190476190477,0,6.995401262620664e-5,Decrecimiento/NA,Sin crecimiento
+Conflicto,Ataques_Drones_EMC,eventos,237,NA,NA,NA,NA,NA,NA,1.1675423234092235e-4,Decrecimiento/NA,Sin crecimiento
+Conflicto,Zonas_en_Disputa,zonas,13,NA,NA,NA,NA,NA,NA,6.404240592540045e-6,Decrecimiento/NA,Sin crecimiento
+Estado,Incautaciones_Droga,kilogramos,861166,NA,NA,NA,NA,NA,NA,0.42423955800887236,Decrecimiento/NA,Sin crecimiento
+Grupos_Armados,Clan_del_Golfo_Crecimiento,porcentaje,30,NA,NA,NA,NA,NA,NA,1.4779016752015489e-5,Decrecimiento/NA,Sin crecimiento
+Grupos_Armados,Clan_del_Golfo_Nuevos,personas,2300,NA,NA,NA,NA,NA,NA,0.001133057950987854,Decrecimiento/NA,Sin crecimiento
+Grupos_Armados,Hombres_en_Armas,personas,13794,NA,NA,NA,NA,NA,NA,0.006795391902576721,Decrecimiento/NA,Sin crecimiento
+Grupos_Armados,Nuevos_Integrantes_Año,personas,5000,NA,NA,NA,NA,NA,NA,0.0024631694586692483,Decrecimiento/NA,Sin crecimiento
+Grupos_Armados,Redes_de_Apoyo,personas,13327,NA,NA,NA,NA,NA,NA,0.006565331875137014,Decrecimiento/NA,Sin crecimiento
+Grupos_Armados,Total_Integrantes,personas,27121,NA,NA,NA,NA,NA,NA,0.013360723777713735,Decrecimiento/NA,Sin crecimiento
+Grupos_Armados,Variacion_Jul_Dic_2025,porcentaje,7,NA,NA,NA,NA,NA,NA,3.448437242136947e-6,Decrecimiento/NA,Sin crecimiento
+Impacto_Humanitario,Afectados_Confinamiento,personas,1000000,NA,NA,NA,NA,NA,NA,0.49263389173384964,Decrecimiento/NA,Sin crecimiento
+Impacto_Humanitario,Afectados_Confinamiento_Multiplicador,veces,3,NA,NA,NA,NA,NA,NA,1.4779016752015488e-6,Decrecimiento/NA,Sin crecimiento
+Impacto_Humanitario,Desplazados_Catatumbo,personas,92000,NA,NA,NA,NA,NA,NA,0.04532231803951416,Decrecimiento/NA,Sin crecimiento
+Seguridad_Ciudadana,Homicidios_Totales,casos,13722,NA,NA,NA,NA,NA,NA,0.0067599222623718844,Decrecimiento/NA,Sin crecimiento

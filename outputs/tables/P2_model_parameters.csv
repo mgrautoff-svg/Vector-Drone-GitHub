@@ -1,0 +1,10 @@
+parameter,value
+base_year,2025
+base_capacity,27121
+projection_years,2026;2027;2028;2029;2030
+thresholds.crisis,40000
+thresholds.high_risk,30000
+thresholds.medium_risk,25000
+saturation.K,35000
+saturation.r,0.35
+saturation.t0,2025

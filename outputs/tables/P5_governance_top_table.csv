@@ -1,0 +1,29 @@
+categoria,indicador,idx,tipo,delta_abs,delta_pct
+Conflicto,Ataques_con_Drones,0.224,Innovación táctica,158,1.3277310924369747
+Conflicto,Enfrentamientos_entre_Grupos,0.201,Competencia/Disputa,29,0.3372093023255814
+Seguridad_Ciudadana,Secuestro,0.15,Mixto,372,1.3333333333333333
+Impacto_Humanitario,Afectados_Confinamiento,0.05,Dominante por nivel (stock),NA,NA
+Estado,Incautaciones_Droga,0.043,Dominante por nivel (stock),NA,NA
+Impacto_Humanitario,Desplazados_Catatumbo,0.005,Mixto,NA,NA
+Grupos_Armados,Total_Integrantes,0.001,Mixto,NA,NA
+Grupos_Armados,Hombres_en_Armas,0.001,Mixto,NA,NA
+Seguridad_Ciudadana,Homicidios_Totales,0.001,Mixto,NA,NA
+Grupos_Armados,Redes_de_Apoyo,0.001,Mixto,NA,NA
+Grupos_Armados,Nuevos_Integrantes_Año,0,Mixto,NA,NA
+Grupos_Armados,Clan_del_Golfo_Nuevos,0,Mixto,NA,NA
+Conflicto,Ataques_Drones_EMC,0,Innovación táctica,NA,NA
+Impacto_Humanitario,Homicidios_Lideres_Sociales,0,Mixto,-26,-0.15476190476190477
+Grupos_Armados,Clan_del_Golfo_Crecimiento,0,Mixto,NA,NA
+Conflicto,Zonas_en_Disputa,0,Mixto,NA,NA
+Grupos_Armados,Variacion_Jul_Dic_2025,0,Mixto,NA,NA
+Impacto_Humanitario,Afectados_Confinamiento_Multiplicador,0,Mixto,NA,NA
+Conflicto,Ataques_Fuerza_Publica_Variacion,0,Mixto,NA,NA
+Conflicto,Ataques_Infraestructura_Civil_Variacion,0,Mixto,NA,NA
+Estado,Acciones_Fuerza_Publica_Variacion,0,Mixto,NA,NA
+Impacto_Humanitario,Ataques_Misiones_Medicas_Variacion,0,Mixto,NA,NA
+Impacto_Humanitario,Desplazamiento_Forzado_Variacion,0,Mixto,NA,NA
+Seguridad_Ciudadana,Amenazas_Variacion,0,Mixto,NA,NA
+Seguridad_Ciudadana,Extorsion_Variacion,0,Mixto,NA,NA
+Seguridad_Ciudadana,Hurto_Automotores_Variacion,0,Mixto,NA,NA
+Seguridad_Ciudadana,Hurto_Comercios_Variacion,0,Mixto,NA,NA
+Seguridad_Ciudadana,Hurto_Residencias_Variacion,0,Mixto,NA,NA

@@ -1,0 +1,8 @@
+parameter,value
+weights.control_social,0.4
+weights.innovation_tactic,0.25
+weights.dispute_compete,0.2
+weights.shock_growth,0.15
+thresholds.high_control,0.6
+thresholds.high_innov,0.5
+thresholds.high_dispute,0.5

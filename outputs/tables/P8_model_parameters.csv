@@ -1,0 +1,7 @@
+parameter,indicator_name,weight,direction
+key_indicators.ENF,Enfrentamientos entre grupos,1,+
+key_indicators.DRN,Ataques con drones,1.5,+
+key_indicators.SEQ,Secuestros,1.2,+
+key_indicators.DES,Desplazamiento forzado,1,+
+key_indicators.HLS,Homicidios líderes sociales,0.8,-
+key_indicators.ATC,Ataques a misiones médicas,0.9,+

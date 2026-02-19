@@ -1,0 +1,31 @@
+market,categoria,indicador,unidad,capacity,share,rank,bucket
+growth_pos,Seguridad_Ciudadana,Secuestro,casos,372,0.6654740608228981,1,Leader
+growth_pos,Conflicto,Ataques_con_Drones,eventos,158,0.2826475849731664,2,Top 3
+growth_pos,Conflicto,Enfrentamientos_entre_Grupos,eventos,29,0.0518783542039356,3,Top 3
+growth_pos,Conflicto,Ataques_Drones_EMC,eventos,0,0,4,Top 5
+growth_pos,Conflicto,Zonas_en_Disputa,zonas,0,0,4,Top 5
+growth_pos,Estado,Incautaciones_Droga,kilogramos,0,0,4,Top 5
+growth_pos,Grupos_Armados,Clan_del_Golfo_Crecimiento,porcentaje,0,0,4,Top 5
+growth_pos,Grupos_Armados,Clan_del_Golfo_Nuevos,personas,0,0,4,Top 5
+growth_pos,Grupos_Armados,Hombres_en_Armas,personas,0,0,4,Top 5
+growth_pos,Grupos_Armados,Nuevos_Integrantes_Año,personas,0,0,4,Top 5
+stock_2024,Seguridad_Ciudadana,Secuestro,casos,279,0.4279141104294479,1,Leader
+stock_2024,Impacto_Humanitario,Homicidios_Lideres_Sociales,personas,168,0.25766871165644173,2,Top 3
+stock_2024,Conflicto,Ataques_con_Drones,eventos,119,0.18251533742331288,3,Top 3
+stock_2024,Conflicto,Enfrentamientos_entre_Grupos,eventos,86,0.13190184049079753,4,Top 5
+stock_2024,Conflicto,Ataques_Drones_EMC,eventos,0,0,5,Top 5
+stock_2024,Conflicto,Zonas_en_Disputa,zonas,0,0,5,Top 5
+stock_2024,Estado,Incautaciones_Droga,kilogramos,0,0,5,Top 5
+stock_2024,Grupos_Armados,Clan_del_Golfo_Crecimiento,porcentaje,0,0,5,Top 5
+stock_2024,Grupos_Armados,Clan_del_Golfo_Nuevos,personas,0,0,5,Top 5
+stock_2024,Grupos_Armados,Hombres_en_Armas,personas,0,0,5,Top 5
+stock_2025,Impacto_Humanitario,Afectados_Confinamiento,personas,1000000,0.49263389173384964,1,Leader
+stock_2025,Estado,Incautaciones_Droga,kilogramos,861166,0.42423955800887236,2,Top 3
+stock_2025,Impacto_Humanitario,Desplazados_Catatumbo,personas,92000,0.04532231803951416,3,Top 3
+stock_2025,Grupos_Armados,Total_Integrantes,personas,27121,0.013360723777713735,4,Top 5
+stock_2025,Grupos_Armados,Hombres_en_Armas,personas,13794,0.006795391902576721,5,Top 5
+stock_2025,Seguridad_Ciudadana,Homicidios_Totales,casos,13722,0.0067599222623718844,6,Top 10
+stock_2025,Grupos_Armados,Redes_de_Apoyo,personas,13327,0.006565331875137014,7,Top 10
+stock_2025,Grupos_Armados,Nuevos_Integrantes_Año,personas,5000,0.0024631694586692483,8,Top 10
+stock_2025,Grupos_Armados,Clan_del_Golfo_Nuevos,personas,2300,0.001133057950987854,9,Top 10
+stock_2025,Seguridad_Ciudadana,Secuestro,casos,651,3.207046635187361e-4,10,Top 10

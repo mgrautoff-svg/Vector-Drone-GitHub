@@ -1,0 +1,2 @@
+model_name,timestamp,years,total_score,risk_classification,indicators_used,sensitivity_range,model_version
+P8_Red_Year_Score_FIP,2026-02-17 22:06:49.771287,2024-2025,9.1,ALTO (ROJO),6,7.7 - 10.5,1.0

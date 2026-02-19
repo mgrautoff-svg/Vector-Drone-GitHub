@@ -1,0 +1,298 @@
+{
+  "metadata": {
+    "titulo": "Dashboard Seguridad Colombia 2025",
+    "fuente": "Fundación Ideas para la Paz (FIP)",
+    "fecha_corte": "2025-12-31",
+    "version": "1.0"
+  },
+  "kpis_principales": {
+    "combatientes_totales": {
+      "valor_actual": 27121,
+      "valor_anterior": 21954,
+      "variacion_porcentual": 23.5,
+      "tendencia": "negativa",
+      "proyeccion_2026": 30000,
+      "criticidad": "alta",
+      "desglose": {
+        "hombres_armas": 13794,
+        "redes_apoyo": 13327
+      }
+    },
+    "zonas_disputa": {
+      "valor_actual": 13,
+      "valor_2022": 7,
+      "variacion_absoluta": 6,
+      "tendencia": "negativa",
+      "criticidad": "alta"
+    },
+    "enfrentamientos": {
+      "valor_actual": 115,
+      "valor_anterior": 86,
+      "variacion_porcentual": 34,
+      "tendencia": "negativa",
+      "nivel_historico": "mas_alto_10_años",
+      "criticidad": "alta"
+    },
+    "personas_confinadas": {
+      "valor_actual": 1000000,
+      "valor_anterior": 333333,
+      "variacion_multiplicador": 3,
+      "tendencia": "negativa",
+      "criticidad": "critica"
+    },
+    "ataques_drones": {
+      "valor_actual": 277,
+      "valor_anterior": 119,
+      "variacion_porcentual": 133,
+      "tendencia": "negativa",
+      "actor_principal": "EMC",
+      "criticidad": "alta"
+    }
+  },
+  "indicadores_por_categoria": {
+    "grupos_armados": {
+      "total_integrantes": {
+        "2024": 21954,
+        "2025": 27121,
+        "variacion": "+23.5%"
+      },
+      "nuevos_reclutados": {
+        "2025": 5000,
+        "detalle": "Incluye 620 de ACSN"
+      },
+      "clan_del_golfo": {
+        "crecimiento": "+30%",
+        "nuevos_miembros": 2300,
+        "alerta": "Mayor crecimiento registrado"
+      },
+      "proyeccion": {
+        "2026": 30000,
+        "confianza": "alta"
+      }
+    },
+    "conflicto": {
+      "enfrentamientos": {
+        "2024": 86,
+        "2025": 115,
+        "variacion": "+34%",
+        "contexto": "Máximo en 10 años"
+      },
+      "zonas_disputa": {
+        "2022": 7,
+        "2025": 13,
+        "incremento": "86%"
+      },
+      "ataques_infraestructura": {
+        "variacion": "+58%",
+        "alerta": "Impacto en servicios básicos"
+      },
+      "ataques_fuerza_publica": {
+        "variacion": "+62%",
+        "contexto": "Cifras más altas desde 2016"
+      },
+      "tecnologia": {
+        "drones": {
+          "2024": 119,
+          "2025": 277,
+          "variacion": "+133%",
+          "actor_principal": "EMC con 237 ataques"
+        },
+        "vigilancia": {
+          "nuevas_capacidades": ["cámaras_camufladas", "rastreo_gps"]
+        }
+      }
+    },
+    "impacto_humanitario": {
+      "desplazamiento": {
+        "variacion": "+85%",
+        "catatumbo": {
+          "desplazados": 92000,
+          "contexto": "Mayor crisis desde Acuerdo de Paz"
+        }
+      },
+      "confinamiento": {
+        "2024": 333333,
+        "2025": 1000000,
+        "multiplicador": 3
+      },
+      "ataques_misiones_medicas": {
+        "variacion": "+39%"
+      },
+      "lideres_sociales": {
+        "2024": 168,
+        "2025": 142,
+        "variacion": "-15.5%",
+        "nota": "Reducción no compensa deterioro general"
+      }
+    },
+    "seguridad_ciudadana": {
+      "homicidios": {
+        "2025": 13722,
+        "variacion": "+3%",
+        "tendencia": "estable"
+      },
+      "hurtos": {
+        "comercios": "-30%",
+        "automotores": "-17%",
+        "residencias": "-11.3%",
+        "tendencia": "positiva"
+      },
+      "secuestro": {
+        "2024": 279,
+        "2025": 651,
+        "variacion": "+133%",
+        "modalidad": "extorsiva_urbana",
+        "alerta": "Reaparición significativa"
+      },
+      "extorsion": {
+        "variacion_oficial": "-1%",
+        "alerta": "Subregistro significativo",
+        "confiabilidad": "baja"
+      }
+    },
+    "respuesta_estatal": {
+      "operaciones": {
+        "variacion": "+34%",
+        "efectividad": "limitada"
+      },
+      "incautaciones_droga": {
+        "2025": 861166,
+        "unidad": "kilogramos",
+        "contexto": "Récord histórico",
+        "impacto_grupos": "no_significativo"
+      },
+      "bombardeos": {
+        "status": "reactivados",
+        "efectividad": "reducida",
+        "riesgo": "afectación_civiles"
+      },
+      "capacidades": {
+        "inteligencia": "debilitada",
+        "anticipacion": "limitada",
+        "caracter": "reactivo"
+      }
+    }
+  },
+  "zonas_criticas": [
+    {
+      "region": "Catatumbo",
+      "actores": ["ELN", "Frente 33"],
+      "situacion": "crisis_humanitaria",
+      "desplazados": 92000,
+      "nivel_alerta": "rojo"
+    },
+    {
+      "region": "Cauca (Cañón del Micay)",
+      "actores": ["EMC - Carlos Patiño"],
+      "situacion": "control_precario",
+      "operacion": "Perseo",
+      "nivel_alerta": "naranja"
+    },
+    {
+      "region": "Vichada",
+      "actores": ["ELN", "Segunda Marquetalia"],
+      "situacion": "disputa_activa",
+      "nivel_alerta": "rojo"
+    },
+    {
+      "region": "Caquetá-Guaviare",
+      "actores": ["Disidencias fragmentadas"],
+      "situacion": "post_division",
+      "impacto": "crisis_humanitaria",
+      "nivel_alerta": "rojo"
+    },
+    {
+      "region": "Tolima-Huila",
+      "actores": ["EMBF - Calarcá", "Clan del Golfo"],
+      "situacion": "expansion",
+      "nivel_alerta": "naranja"
+    }
+  ],
+  "alertas_tempranas": {
+    "nivel_rojo": [
+      "Crecimiento >30% combatientes",
+      "Desplazamientos masivos >50,000",
+      "Ataques sistemáticos misiones humanitarias"
+    ],
+    "nivel_naranja": [
+      "Nuevas estructuras en zonas estables",
+      "Incremento >50% uso drones",
+      "Fracturas grupos en negociación"
+    ],
+    "nivel_amarillo": [
+      "Expansión territorial sostenida",
+      "Carnetización poblacional",
+      "Reclutamiento con incentivos"
+    ]
+  },
+  "tendencias_2026": {
+    "combatientes": {
+      "proyeccion": 30000,
+      "confianza": "alta",
+      "impacto": "critico"
+    },
+    "disputas": {
+      "proyeccion": "mantencion_o_aumento",
+      "zonas_riesgo": ["Norte de Santander", "Cauca", "Putumayo"]
+    },
+    "tecnologia": {
+      "proyeccion": "mayor_sofisticacion",
+      "areas": ["drones", "vigilancia", "comunicaciones"]
+    },
+    "humanitario": {
+      "proyeccion": "niveles_altos_sostenidos",
+      "poblacion_riesgo": ">1M"
+    }
+  },
+  "evaluacion_paz_total": {
+    "estado": "crisis_credibilidad",
+    "mesas_activas": "multiples",
+    "efectividad": "limitada",
+    "riesgos": [
+      "Paz electorera",
+      "ZUT con 4 grupos",
+      "Falta capacidad institucional"
+    ],
+    "valoracion": "negativa"
+  },
+  "recomendaciones_prioritarias": [
+    {
+      "area": "Institucional",
+      "accion": "Auditoría capacidades sector defensa",
+      "prioridad": "alta",
+      "plazo": "inmediato"
+    },
+    {
+      "area": "Inteligencia",
+      "accion": "Restablecer capacidades anticipación",
+      "prioridad": "alta",
+      "plazo": "corto"
+    },
+    {
+      "area": "Economías ilícitas",
+      "accion": "Estrategia integral más allá de droga",
+      "prioridad": "alta",
+      "plazo": "mediano"
+    },
+    {
+      "area": "Negociación",
+      "accion": "Balance entre diálogo y contención",
+      "prioridad": "alta",
+      "plazo": "inmediato"
+    },
+    {
+      "area": "ZUT",
+      "accion": "Protocolos seguridad y verificación",
+      "prioridad": "critica",
+      "plazo": "inmediato"
+    }
+  ],
+  "evaluacion_general": {
+    "situacion_actual": "deterioro_severo",
+    "tendencia": "negativa",
+    "pronostico_2026": "empeoramiento",
+    "capacidad_respuesta": "insuficiente",
+    "riesgo_consolidacion": "alto",
+    "valoracion_global": "critica"
+  }
+}

@@ -1,0 +1,7 @@
+[2026-02-16 09:55:09] ============================================================ 
+[2026-02-16 09:55:09] RUN_ALL START 
+[2026-02-16 09:55:09] ROOT_DIR:    C:/Users/MANFRED/Dropbox/PC (3)/Desktop/Diario/Columnas/columna _accam 
+[2026-02-16 09:55:09] SCRIPTS_DIR: C:/Users/MANFRED/Dropbox/PC (3)/Desktop/Diario/Columnas/columna _accam/scripts 
+[2026-02-16 09:55:09] LOG_FILE:    C:/Users/MANFRED/Dropbox/PC (3)/Desktop/Diario/Columnas/columna _accam/outputs/logs/run_all_20260216_095509.log 
+[2026-02-16 09:55:09] ============================================================ 
+[2026-02-16 09:55:09] ERROR:  No existe el script: C:/Users/MANFRED/Dropbox/PC (3)/Desktop/Diario/Columnas/columna _accam/scripts/00_setup_robusto.R 

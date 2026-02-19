@@ -1,0 +1,29 @@
+categoria,indicador,unidad,valor_2024,valor_2025,delta_abs,delta_pos,delta_pct,growth_share,stock_share,shock_ratio,score_social,score_tech,score_dispute,component_social,component_tech,component_dispute,component_shock,component_growth_share,component_stock_share,governance_index,governance_category,governance_type,cluster
+Seguridad_Ciudadana,Secuestro,casos,279,651,372,372,1.3333333333333333,0.6654740608228981,3.207046635187361e-4,1.3333333333333333,1,0,0,1,0,0,1,1,6.48001944005832e-4,0.5500324000972003,Media-Alta,Control social + shock,1
+Conflicto,Ataques_con_Drones,eventos,119,277,158,158,1.3277310924369747,0.2826475849731664,1.3645958801027634e-4,1.3277310924369747,0,1,0,0,1,0,0.9957983193277311,0.42473118279569894,2.74000822002466e-4,0.3706200070800447,Media,Innovación táctica,1
+Impacto_Humanitario,Homicidios_Lideres_Sociales,personas,168,142,-26,0,-0.15476190476190477,0,6.995401262620664e-5,0.15476190476190477,1,0,0,1,0,0,0.11607142857142858,0,1.39000417001251e-4,0.3674176643065643,Media,Control social,2
+Conflicto,Enfrentamientos_entre_Grupos,eventos,86,115,29,29,0.3372093023255814,0.0518783542039356,5.6652897549392704e-5,0.3372093023255814,0,0,1,0,0,1,0.25290697674418605,0.07795698924731183,1.12000336001008e-4,0.24183949599079357,Baja,Competencia/Disputa,4
+Conflicto,Ataques_Drones_EMC,eventos,NA,237,NA,NA,NA,NA,1.1675423234092235e-4,0,0,1,0,0,1,0,0,NA,2.34000702002106e-4,NA,Muy Baja,Innovación táctica,3
+Conflicto,Ataques_Fuerza_Publica_Variacion,porcentaje,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0,0,0,NA,NA,NA,Muy Baja,Mixto,3
+Conflicto,Ataques_Infraestructura_Civil_Variacion,porcentaje,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0,0,0,NA,NA,NA,Muy Baja,Mixto,3
+Conflicto,Zonas_en_Disputa,zonas,NA,13,NA,NA,NA,NA,6.404240592540045e-6,0,0,0,1,0,0,1,0,NA,1.0000030000089998e-5,NA,Muy Baja,Competencia/Disputa,4
+Estado,Acciones_Fuerza_Publica_Variacion,porcentaje,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0,0,0,NA,NA,NA,Muy Baja,Mixto,3
+Estado,Incautaciones_Droga,kilogramos,NA,861166,NA,NA,NA,NA,0.42423955800887236,0,0,0,0,0,0,0,0,NA,0.8611655834967505,NA,Muy Baja,Dominante por nivel (stock),5
+Grupos_Armados,Clan_del_Golfo_Crecimiento,porcentaje,NA,30,NA,NA,NA,NA,1.4779016752015489e-5,0,0,0,0,0,0,0,0,NA,2.7000081000243e-5,NA,Muy Baja,Mixto,3
+Grupos_Armados,Clan_del_Golfo_Nuevos,personas,NA,2300,NA,NA,NA,NA,0.001133057950987854,0,0,0,0,0,0,0,0,NA,0.002297006891020673,NA,Muy Baja,Mixto,3
+Grupos_Armados,Hombres_en_Armas,personas,NA,13794,NA,NA,NA,NA,0.006795391902576721,0,0,0,0,0,0,0,0,NA,0.013791041373124119,NA,Muy Baja,Mixto,3
+Grupos_Armados,Nuevos_Integrantes_Año,personas,NA,5000,NA,NA,NA,NA,0.0024631694586692483,0,0,0,0,0,0,0,0,NA,0.004997014991044973,NA,Muy Baja,Mixto,3
+Grupos_Armados,Redes_de_Apoyo,personas,NA,13327,NA,NA,NA,NA,0.006565331875137014,0,0,0,0,0,0,0,0,NA,0.013324039972119917,NA,Muy Baja,Mixto,3
+Grupos_Armados,Total_Integrantes,personas,NA,27121,NA,NA,NA,NA,0.013360723777713735,0,0,0,0,0,0,0,0,NA,0.027118081354244063,NA,Muy Baja,Mixto,3
+Grupos_Armados,Variacion_Jul_Dic_2025,porcentaje,NA,7,NA,NA,NA,NA,3.448437242136947e-6,0,0,0,0,0,0,0,0,NA,4.000012000036e-6,NA,Muy Baja,Mixto,3
+Impacto_Humanitario,Afectados_Confinamiento,personas,NA,1000000,NA,NA,NA,NA,0.49263389173384964,0,1,0,0,1,0,0,0,NA,1,NA,Muy Baja,Control social,5
+Impacto_Humanitario,Afectados_Confinamiento_Multiplicador,veces,NA,3,NA,NA,NA,NA,1.4779016752015488e-6,0,1,0,0,1,0,0,0,NA,0,NA,Muy Baja,Control social,2
+Impacto_Humanitario,Ataques_Misiones_Medicas_Variacion,porcentaje,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0,0,0,NA,NA,NA,Muy Baja,Mixto,3
+Impacto_Humanitario,Desplazados_Catatumbo,personas,NA,92000,NA,NA,NA,NA,0.04532231803951416,0,1,0,0,1,0,0,0,NA,0.09199727599182797,NA,Muy Baja,Control social,2
+Impacto_Humanitario,Desplazamiento_Forzado_Variacion,porcentaje,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,0,0,0,NA,NA,NA,Muy Baja,Control social,2
+Seguridad_Ciudadana,Amenazas_Variacion,porcentaje,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,0,0,0,NA,NA,NA,Muy Baja,Control social,2
+Seguridad_Ciudadana,Extorsion_Variacion,porcentaje,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,0,0,0,NA,NA,NA,Muy Baja,Control social,2
+Seguridad_Ciudadana,Homicidios_Totales,casos,NA,13722,NA,NA,NA,NA,0.0067599222623718844,0,1,0,0,1,0,0,0,NA,0.013719041157123472,NA,Muy Baja,Control social,2
+Seguridad_Ciudadana,Hurto_Automotores_Variacion,porcentaje,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0,0,0,NA,NA,NA,Muy Baja,Mixto,3
+Seguridad_Ciudadana,Hurto_Comercios_Variacion,porcentaje,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0,0,0,NA,NA,NA,Muy Baja,Mixto,3
+Seguridad_Ciudadana,Hurto_Residencias_Variacion,porcentaje,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0,0,0,NA,NA,NA,Muy Baja,Mixto,3

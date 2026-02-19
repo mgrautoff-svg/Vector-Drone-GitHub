@@ -1,0 +1,33 @@
+categoria,indicador,año,valor,unidad,variacion_porcentual,notas_documento,missing_type
+Conflicto,Ataques_Drones_EMC,2025,237,eventos,NA,Mayoría de los 277 ataques,NA
+Conflicto,Ataques_Fuerza_Publica_Variacion,2025,NA,porcentaje,62,Aumento respecto a 2024,NA
+Conflicto,Ataques_Infraestructura_Civil_Variacion,2025,NA,porcentaje,58,Aumento respecto a 2024,NA
+Conflicto,Ataques_con_Drones,2024,119,eventos,NA,NA,NA
+Conflicto,Ataques_con_Drones,2025,277,eventos,133,"237 atribuidos al EMC (cálculo: 277-119=158, 158/119=132.77% redondeado a 133%)",NA
+Conflicto,Enfrentamientos_entre_Grupos,2024,86,eventos,NA,NA,NA
+Conflicto,Enfrentamientos_entre_Grupos,2025,115,eventos,34,Nivel más alto en 10 años,NA
+Conflicto,Zonas_en_Disputa,2025,13,zonas,NA,Doc dice: casi el doble que en 2022 (valor 2022 no especificado),NA
+Estado,Acciones_Fuerza_Publica_Variacion,2025,NA,porcentaje,34,Aumento de acciones,NA
+Estado,Incautaciones_Droga,2025,861166,kilogramos,NA,Récord histórico,NA
+Grupos_Armados,Clan_del_Golfo_Crecimiento,2025,30,porcentaje,NA,Equivale a 2300 personas más,NA
+Grupos_Armados,Clan_del_Golfo_Nuevos,2025,2300,personas,NA,NA,NA
+Grupos_Armados,Hombres_en_Armas,2025,13794,personas,20,NA,NA
+Grupos_Armados,Nuevos_Integrantes_Año,2025,5000,personas,NA,Incremento en un año (incluye 620 de ACSN),NA
+Grupos_Armados,Redes_de_Apoyo,2025,13327,personas,27,NA,NA
+Grupos_Armados,Total_Integrantes,2025,27121,personas,23.5,13794 hombres en armas y 13327 en redes de apoyo,NA
+Grupos_Armados,Variacion_Jul_Dic_2025,2025,7,porcentaje,NA,Aumento pie de fuerza entre julio y diciembre de 2025,NA
+Impacto_Humanitario,Afectados_Confinamiento,2025,1000000,personas,NA,Más de un millón (doc dice triplicó 2024 pero no da cifra 2024),NA
+Impacto_Humanitario,Afectados_Confinamiento_Multiplicador,2025,3,veces,NA,Triplicó respecto a 2024,NA
+Impacto_Humanitario,Ataques_Misiones_Medicas_Variacion,2025,NA,porcentaje,39,Aumento respecto a 2024,NA
+Impacto_Humanitario,Desplazados_Catatumbo,2025,92000,personas,NA,Crisis del Catatumbo,NA
+Impacto_Humanitario,Desplazamiento_Forzado_Variacion,2025,NA,porcentaje,85,Aumento respecto a 2024,NA
+Impacto_Humanitario,Homicidios_Lideres_Sociales,2024,168,personas,NA,NA,NA
+Impacto_Humanitario,Homicidios_Lideres_Sociales,2025,142,personas,-15.5,NA,NA
+Seguridad_Ciudadana,Amenazas_Variacion,2025,NA,porcentaje,-18,Disminución,NA
+Seguridad_Ciudadana,Extorsion_Variacion,2025,NA,porcentaje,-1,Disminución (doc advierte subregistro significativo),NA
+Seguridad_Ciudadana,Homicidios_Totales,2025,13722,casos,3,Aumento cercano al 3% respecto a 2024,NA
+Seguridad_Ciudadana,Hurto_Automotores_Variacion,2025,NA,porcentaje,-17,Disminución,NA
+Seguridad_Ciudadana,Hurto_Comercios_Variacion,2025,NA,porcentaje,-30,Disminución,NA
+Seguridad_Ciudadana,Hurto_Residencias_Variacion,2025,NA,porcentaje,-11.3,Disminución,NA
+Seguridad_Ciudadana,Secuestro,2024,279,casos,NA,NA,NA
+Seguridad_Ciudadana,Secuestro,2025,651,casos,133,Aumento,NA
