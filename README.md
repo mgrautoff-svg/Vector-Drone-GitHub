@@ -1,108 +1,126 @@
-# Vector-Drone-GitHub
-
-**Plataforma de análisis estratégico sobre conflicto armado, capacidades militares irregulares y transformación de la guerra en Colombia**, construida sobre datos verificados por la **Fundación Ideas para la Paz (FIP)** y fuentes oficiales, incluyendo información del **Comando General de las Fuerzas Militares**.
-
-Este repositorio no es solo un repositorio de código. Es un **instrumento de producción de análisis estratégico de alto nivel**, orientado a convertir datos complejos en **narrativas analíticas, escenarios prospectivos y diagnósticos útiles para el debate público y la toma de decisiones**.
-
-Aquí se documenta, se reproduce y se respalda empíricamente el tipo de análisis que se publica en espacios como **La Silla Vacía** y otros medios de discusión estratégica.
+# Vector-Drone-GitHub  
+**Plataforma de Analítica Estratégica para Capacidades Militares Irregulares y Transformación del Conflicto en Colombia**
 
 ---
 
-## 🧭 ¿Cuál es el valor agregado de este proyecto?
+## Resumen Ejecutivo
 
-La mayoría del debate público sobre seguridad se queda en:
-- Eventos aislados
-- Titulares coyunturales
-- Reacciones tácticas
+Este repositorio alberga una **infraestructura de analítica estratégica** diseñada para analizar la evolución de capacidades militares irregulares, los procesos de adaptación organizacional y la transformación del conflicto armado en Colombia. Está construido sobre **datos verificados** de la **Fundación Ideas para la Paz (FIP)** y fuentes oficiales, incluyendo información publicada por el **Comando General de las Fuerzas Militares**.
 
-Este proyecto hace algo distinto:
+El objetivo de este proyecto no es la descripción coyuntural. Es la **producción sistemática de inteligencia estratégica**: transformar datos operativos heterogéneos en **indicadores comparables, modelos de escenarios y productos analíticos útiles para la toma de decisiones**.
 
-- Integra **múltiples indicadores** en una sola arquitectura analítica coherente  
-- Convierte bases de datos operativas en **paneles estratégicos comparables en el tiempo**  
-- Permite **medir capacidades**, no solo contar eventos  
-- Traduce datos en:
-  - Escenarios de crecimiento o contención de la amenaza
-  - Medidas de concentración y dispersión del riesgo
-  - Índices sintéticos de riesgo estratégico
-  - Diagnósticos sobre adaptación, innovación y gobernanza criminal
-
-En otras palabras:  
-👉 **No describe solo qué pasó. Permite analizar hacia dónde va el conflicto y por qué.**
+Esta infraestructura respalda el tipo de análisis publicado en espacios de debate estratégico como *La Silla Vacía* y está diseñada para escalar hacia informes de política pública, evaluaciones estratégicas y ejercicios de planeación por escenarios.
 
 ---
 
-## 📊 Datos y trazabilidad
+## Justificación Estratégica
 
-El pipeline trabaja sobre:
+El debate público sobre seguridad y conflicto suele estar dominado por:
 
-- Datos consolidados y verificados por la **FIP**
-- Información agregada proveniente de fuentes oficiales, incluyendo el **Comando General de las Fuerzas Militares**
-- Registros de indicadores de:
-  - Seguridad y violencia
-  - Dinámicas de grupos armados
-  - Impacto humanitario
-  - Capacidades emergentes (por ejemplo, uso de drones)
+- Narrativas centradas en eventos aislados  
+- Interpretaciones tácticas de corto plazo  
+- Indicadores fragmentados y no comparables  
 
-Todo el proceso está diseñado para que:
+Este pipeline responde a una carencia estructural: **la ausencia de marcos analíticos acumulativos, comparables en el tiempo y orientados a escenarios**.
 
-- Los datos fuente estén separados de los datos derivados  
-- Cada transformación sea **reproducible y auditable**  
-- Los resultados puedan ser **citados, verificados y actualizados** cuando haya nuevos cortes de información
+En concreto, permite:
 
----
+- Integrar **múltiples indicadores** en una arquitectura analítica coherente  
+- Convertir bases de datos operativas en **paneles estratégicos longitudinales**  
+- Medir **capacidades y adaptación organizacional**, no solo contar eventos  
+- Traducir datos en:
+  - Escenarios de crecimiento o contención de la amenaza  
+  - Métricas de concentración y dispersión del riesgo  
+  - Índices sintéticos de riesgo estratégico  
+  - Diagnósticos sobre gobernanza, innovación y aprendizaje organizacional en estructuras armadas  
 
-## 📰 Relación con análisis publicados
+En otras palabras:
 
-Este repositorio funciona como **soporte empírico y metodológico** de análisis estratégicos publicados en medios de debate público y político, como **La Silla Vacía**.
-
-Cuando se publica una columna o análisis:
-
-- El artículo presenta la **interpretación estratégica**
-- Este repositorio conserva:
-  - Los datos usados
-  - Los modelos aplicados
-  - Las tablas y visualizaciones que sustentan el argumento
-
-De esta forma, el análisis público no es solo opinativo: queda **anclado en evidencia reproducible**.
+> Este marco está diseñado para apoyar evaluaciones estratégicas prospectivas, no solo descripciones retrospectivas.
 
 ---
 
-## 🧠 ¿Por qué esto importa?
+## Gobernanza de Datos y Trazabilidad
 
-Porque la discusión sobre seguridad en Colombia suele reaccionar **tarde y mal**:
+El pipeline se construye sobre:
 
-- Se responde al síntoma, no a la tendencia
-- Se persigue el evento, no la capacidad
-- Se subestima la velocidad de adaptación del adversario
+- Datos verificados de la **Fundación Ideas para la Paz (FIP)**  
+- Fuentes oficiales del Estado colombiano  
+- Publicaciones del **Comando General de las Fuerzas Militares**  
+- Procesos completamente reproducibles de ingesta, transformación, modelado y visualización  
 
-Este proyecto permite:
+Cada salida (tablas, figuras, escenarios, índices) es **trazable** a:
 
-- Detectar **cambios estructurales antes de que se vuelvan crisis**
-- Evaluar **costos estratégicos de no hacer nada**
-- Comparar **escenarios de política pública con métricas claras**
-- Pasar del discurso reactivo a la **planificación basada en evidencia**
+- Un script específico  
+- Una fuente de datos definida  
+- Una decisión metodológica explícita  
 
----
+Esto garantiza:
 
-## 🧩 ¿Qué hace el pipeline?
-
-1. **Ingesta y validación de datos**
-2. **Construcción de paneles estratégicos comparables**
-3. **Ejecución de modelos de análisis estructural**, incluyendo:
-   - P2: Escenarios de crecimiento de capacidades
-   - P3: Descomposición del crecimiento de la amenaza
-   - P4: Concentración y dispersión del riesgo (HHI)
-   - P5: Clasificación estratégica de indicadores
-   - P8: Índice sintético de riesgo estratégico (“Red Year”)
-4. **Generación de tablas, figuras y reportes ejecutivos**
+- Auditabilidad técnica  
+- Reproducibilidad de resultados  
+- Actualización sistemática de los diagnósticos estratégicos  
 
 ---
 
-## 📁 Estructura del proyecto
+## Productos Analíticos
 
-```text
-scripts/        # Código del pipeline
-data/           # Datos (raw, verified, derived)
-outputs/        # Resultados, figuras, reportes
-docs/           # Documentos editoriales y notas analíticas
-checks/         # Contratos de datos y validaciones
+El repositorio soporta, entre otros:
+
+- Modelos de escenarios sobre crecimiento y contención de capacidades irregulares  
+- Análisis de concentración y fragmentación del poder organizacional armado  
+- Índices compuestos de riesgo estratégico  
+- Modelos de gobernanza y adaptación organizacional  
+- Visualizaciones estratégicas para uso analítico de alto nivel  
+- Respaldo empírico para columnas, informes y documentos de política pública  
+
+---
+
+## Publicaciones y Productos de Política Pública
+
+Esta infraestructura respalda análisis publicados en medios de debate estratégico.
+
+- **El giro de los drones en el conflicto colombiano** — *La Silla Vacía*, 2026  
+  (enlace a añadir tras publicación)
+
+A medida que se publiquen nuevos artículos, informes o notas de política, los datos y modelos subyacentes serán incorporados aquí para asegurar transparencia, reproducibilidad y acumulación de capacidad analítica.
+
+---
+
+## Estructura del Repositorio
+
+- `scripts/` — Pipeline analítico (ingesta, transformación, modelos, visualización)  
+- `data/` — Datos crudos, verificados y derivados  
+- `outputs/` — Tablas, figuras y productos analíticos  
+- `docs/` — Informes renderizados y notas técnicas  
+- `checks/` — Validación de datos y control de calidad  
+- `logs/` — Registros de ejecución  
+
+---
+
+## Posicionamiento Estratégico
+
+Este proyecto opera en la intersección entre:
+
+- Analítica de datos  
+- Inteligencia estratégica  
+- Economía del conflicto  
+- Estudios de seguridad y defensa  
+- Narrativa estratégica basada en evidencia  
+
+Su propósito no es la visualización por sí misma.  
+Es la **producción de insumos analíticos de calidad decisional**.
+
+---
+
+## Uso Público y Gobernanza del Proyecto
+
+Este repositorio funciona como:
+
+- Espina dorsal técnica de análisis estratégicos publicados  
+- Archivo reproducible de productos analíticos  
+- Plataforma de desarrollo para modelación prospectiva por escenarios  
+
+Cada nuevo producto público tendrá aquí su respaldo empírico y metodológico correspondiente.
+
+---
