@@ -1,5 +1,65 @@
 ![Drones en Colombia — Análisis Estratégico](docs/drones.jpg)
 
+# La guerra cambió. El Estado sigue cazando nombres
+
+Publicado en La Silla Vacía, Red de Expertos, 2026  
+Autor: Manfred Grautoff  
+URL: https://www.lasillavacia.com/red-de-expertos/red-de-la-paz/drones-en-la-guerra-en-colombia-el-estado-sigue-cazando-nombres/
+
+---
+
+A las cuatro de la mañana, en el Naya, despega un dron que no figura en ningún informe. No sale de un campamento. Sale de una escuela que no existe en los organigramas. Dionisio Rayo tomó antiguos explosivistas y muchachos criados entre consolas y pantallas y los convirtió en operadores letales. Hoy, sus drones ponen en jaque la operación Perseo en el norte del Cauca. No es ideología. Es ingeniería de guerra.
+
+En la sala de crisis miran mapas de impactos y lo llaman análisis. Es el sesgo del superviviente. Perseguimos el humo y dejamos viva la fábrica del fuego. Si Kahneman, premio Nobel de Economía, estuviera en la mesa, señalaría los agujeros del fuselaje y diría lo obvio: estamos protegiendo el daño y dejando intacta la línea de producción de la guerra.
+
+
+El mapa marca los impactos. El avión delata el error: sesgo del superviviente. Corremos detrás del daño y dejamos intacta la fábrica del ataque.
+Colombia enfrenta una modernización del conflicto y un proceso de aprendizaje criminal que se expande desde enclaves rurales hacia territorios donde la economía ilegal es, en la práctica, el principal motor de actividad.
+
+La guerra no solo persiste: se modernizó. La Fundación Ideas para la Paz (FIP) incorporó cifras del Análisis de Capacidades de la Amenaza del Departamento Conjunto de Inteligencia y Contrainteligencia de las Fuerzas Militares. Esos datos permiten ver con claridad la evolución de estas estructuras.
+
+El cuadro es inequívoco: los combatientes ya superan los 27.000, los enfrentamientos entre grupos alcanzaron 115 en 2025, los ataques con drones llegaron a 277, el desplazamiento forzado creció 85% y más de un millón de personas viven hoy bajo confinamiento —un eufemismo para describir poblaciones sometidas al control armado—. Es la firma operativa de una transformación del conflicto. Y no es solo Colombia: es la misma lógica que hoy recorre de México al Medio Oriente, de Brasil a la Amazonía.
+
+
+Mientras ellos innovan, el Estado reacciona. El tablero estratégico se inclina, en silencio, a favor de los grupos armados. No hay un plan que articule seguridad, justicia e inteligencia; hay respuestas fragmentadas, sin doctrina común ni sentido estratégico. Y todo esto ocurre mientras el debate público sigue tratando la seguridad como un problema de gasto, no de enfoque estratégico. En los territorios, el conflicto arrecia y eso se traduce en algo muy concreto: poblaciones dejadas a su suerte frente a estructuras que ya no solo ejercen violencia, sino gobierno. Ese desbalance empieza, además, a proyectarse hacia las ciudades, donde la violencia deja de ser periférica y vuelve a ser un problema central de seguridad, pero ya bajo una lógica de control armado.
+
+Esa brecha no es abstracta: ya tiene manifestaciones operativas concretas. Los datos muestran el motor de esta degradación. En 2025, los secuestros pasaron de 279 a 651 casos: un aumento de 372 eventos en un solo año. A esto se suma la explosión del uso de drones —277 ataques, más del doble que en 2024— y el incremento de los enfrentamientos entre grupos armados. Es el mismo patrón: modernización del conflicto y aprendizaje criminal.
+
+La firma de esta fase es doble: tecnología barata como multiplicador táctico y secuestro como instrumento de control social. Medirla solo por la tasa de homicidios ya no alcanza. El cambio real está en otra parte. Está en cómo se pelea. En el modus operandi.
+
+Por eso importan más figuras como Dionisio Rayo y la escuela de drones del Naya que muchos jefes visibles. No porque manden más hombres, sino porque están inventando cómo se combate. Lo mismo pasa con la estructura de drones del ELN en Arauca. El dron no es un gadget. Es doctrina en acción.
+
+Mientras los grupos armados convierten tecnología barata en ventaja estratégica, el Estado sigue sin un manual básico para que un pelotón sepa tomar medidas evasivas con escopetas Mossberg calibre 12 y hacer frente a un ataque con drones. Ese es el nuevo vector del conflicto. Y hoy lo están explotando ellos.
+
+
+Con un indicador de gobernanza criminal construido para este análisis —un índice simple que cruza cuánto controlan, cuánto innovan y qué tan rápido cambian— dejamos de contar muertos y empezamos a medir quién manda. Tomamos los datos, miramos cuánto cambia cada frente del conflicto de un año a otro y cruzamos control, innovación y disputa; donde se acelera, el poder se concentra, y donde no, el nivel queda contenido: la frontera entre quien pelea y quien gobierna. No es casual: el sesgo del superviviente no es solo un error táctico, es un error de sistema.
+
+Ese salto es doctrinal, no solo tecnológico. En pocos años, estas estructuras transformaron herramientas baratas en un sistema de coerción más sofisticado, capaz de combinar intimidación, castigo selectivo y demostración de poder. No es una simple adaptación táctica. Es una mutación en la forma de hacer la guerra. Y está ocurriendo más rápido de lo que el Estado parece dispuesto —o capaz— de comprender.
+
+
+Hoy, mientras algunos siguen persiguiendo grandes nombres o intentando pelear la guerra del pasado, las verdaderas fábricas de poder están en otro lado: en las escuelas, en el entrenamiento, en la innovación, en cómo esas capacidades se filtran primero y se imponen después sobre la vida urbana y rural. Así se está escribiendo esta fase del conflicto. Y por eso no solo continúa: se vuelve cada vez más difícil de contener.
+
+La pregunta es incómoda, pero inevitable. ¿Está el Estado dispuesto a aceptar que la guerra que enfrenta ya no es la misma? ¿O va a seguir reaccionando a la guerra de ayer mientras pierde, día a día, la de hoy?
+
+Con los datos del Comando General de las Fuerzas Militares y de la FIP ya es posible ir más allá del diagnóstico y anticipar trayectorias. Ver qué pasa si las decisiones actuales se mantienen, si se hace más de lo mismo, o si se cambia de forma de actuar.
+
+Si nada cambia, Colombia no estalla: se acostumbra. Con el ritmo reciente —23,5% anual entre 2022 y 2025, si se extrapola linealmente la tendencia observada en los datos— y sin un giro doctrinal de fondo, la capacidad agregada puede acercarse a los 80.000 hacia 2030. No es una explosión. Es peor: la normalización del control armado, el momento en que lo excepcional deja de sorprender y se vuelve paisaje.
+
+Hay un segundo camino, más caro y más cómodo: poner más plata, mover más tropas, hacer lo mismo. Ir por cabecillas. Llegar tarde. Desplegar sin rediseñar. El crecimiento se frena, pero no se rompe. Se quedan por encima de los 40.000. El país entra en una rutina amarga: la seguridad se desgasta, la inversión duda, la gente se va, las cuentas públicas aprietan. No es derrota. Es cansancio. Y el cansancio también pierde guerras.
+
+La única salida real exige algo menos popular y más difícil: pensar distinto. Ir a las finanzas criminales. Tocar la cadena de mando intermedia. Presionar el corazón de la organización. En ese camino, las estructuras podrían bajar hacia un orden cercano a los 20.000. Incluso así, no hay atajos. Haría falta tiempo, constancia y algo que hoy escasea: un acuerdo mínimo en que la seguridad no es de izquierda ni de derecha. Es del país.
+
+
+En otras palabras, el problema ya no es cuántos hombres tienen, sino qué tan rápido aprenden y cómo convierten innovación barata en poder. Si el Estado no entiende esa secuencia —escuela, entrenamiento, innovación, expansión—, si Dionisio Rayo y otros como él siguen formando operadores mientras nosotros seguimos cazando nombres, las Fuerzas Militares seguirán corriendo detrás de sombras: objetivos de alto valor mediático y baja importancia estratégica, mientras se pierde lo único que decide esta guerra.
+
+De ahí salen tres tareas. No son elegantes, son necesarias.
+
+Primero, hay que arreglar el cerebro del sistema. Antes de comprar más armas, hay que volver a pensar. Mirar mejor. Conectar mejor. Anticipar. Sin eso, todo lo demás es ruido caro y tiempo regalado al enemigo. Segundo, hay que ir por el dinero. Hoy las finanzas criminales siguen siendo una caja negra. Sabemos que existen. No sabemos cómo mandan. Y lo que no se entiende, no se puede romper. Tercero, hay que cambiar la doctrina. Esta ya no es una guerra de frentes. Es control social. Es castigo selectivo. Es administración del miedo. En ese tablero, una escuela de entrenamiento pesa más que la captura de un nombre famoso.
+
+La guerra ya cambió. El Estado, no. Y en esa distancia, los grupos armados no solo avanzan: compran tiempo. Y en esta guerra, el tiempo es lo único que no se puede recuperar.
+
+
+
 # Arquitectura de la Guerra Irregular en Colombia
 **Plataforma de Analítica Estratégica para Capacidades Militares Irregulares y Transformación del Conflicto en Colombia**
 
